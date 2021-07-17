@@ -1,0 +1,4 @@
+enum Model
+{
+YAMAHA_R15,NS200,KTM_RC200,APACHE_RR310;
+}
